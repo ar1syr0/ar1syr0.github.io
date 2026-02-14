@@ -2,4 +2,4 @@ Hello Friends 🤖 Just your friendly neighbourhood tech enthusiast, cosplaying 
 
 ## Projects
 
-- **[Har Analyzer](/Projects/har_analyzer/)** 
+- **[Har Analyzer](/projects/har_analyzer/)** 
