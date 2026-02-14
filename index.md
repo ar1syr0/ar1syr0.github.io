@@ -12,6 +12,6 @@ I record, experiment, build questionable side projects at 2AM, and occasionally 
 Good vibes (beta version), humour enabled, self-sarcasm running in production. 
 
 ## Projects
-- **[HAR Analyzer](/projects/har_analyzer.md)**  
+- **[HAR Analyzer](/projects/har_analyzer/)**  
   JSON Reader – Because Raw JSON at 1AM is a Horror Movie.
 
