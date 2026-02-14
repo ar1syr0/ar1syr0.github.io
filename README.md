@@ -1,8 +1,3 @@
----
-layout: default
-title: ar1syr0's Playground
----
-
 # Aristeidis Syrogiannis – “It Worked on My Machine”
 
 Hello friends 🤖  
