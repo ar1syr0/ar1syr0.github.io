@@ -3,8 +3,6 @@ layout: default
 title: HAR Analyzer
 ---
 
-[Rest of Notion content goes here...]
-
 
 # HAR Analyzer
 
@@ -280,7 +278,3 @@ function getStatusExplanation(status) {
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap></script>
 ```
-
-Files for Dowload
-
-[HAR Analyzer.zip](https://cbre-my.sharepoint.com/:u:/p/aristeidis_syrogiannis/IQDgS6MnTLz5QaJGmmMvsHpKAfHB2FkniS4EK6CQpFAJkwM?e=OXpVfE)
