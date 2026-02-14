@@ -1,6 +1,3 @@
-**Edit README.md:**
-```markdown
-***
-***
-
-{% include index.md %}
+<!-- Include full content -->
+{% capture content %}{% include index.md %}{% endcapture %}
+{{ content | markdownify }}
