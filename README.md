@@ -2,4 +2,4 @@ Hello Friends 🤖 Just your friendly neighbourhood tech enthusiast, cosplaying 
 
 ## Projects
 
-- **[TrueNAS Home Lab](/projects/har_analyzer.md)** 
+- **[Har Analyzer](/projects/har_analyzer.md)** 
