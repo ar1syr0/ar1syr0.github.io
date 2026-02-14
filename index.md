@@ -9,6 +9,9 @@ Hello friends 🤖
 Just your friendly neighbourhood tech enthusiast, cosplaying as a Snr. Systems Analyst.  
 I record, experiment, build questionable side projects at 2AM, and occasionally indulge in some dangerously confident vibe coding.
 
-## Projects
+Good vibes (beta version), humour enabled, self-sarcasm running in production. 
 
+## Projects
+- **[HAR Analyzer](/projects/HAR_Analyzer)**  
+  JSON Reader – Because Raw JSON at 1AM is a Horror Movie.
 
