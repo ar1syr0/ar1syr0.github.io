@@ -8,6 +8,6 @@ I record, experiment, build questionable side projects at 2AM, and occasionally 
 Good vibes (beta version), humour enabled, self-sarcasm running in production. 
 
 ## Projects
-- **[HAR Analyzer](https://ar1syr0.github.io/har-analyzer/)**
+- **[HAR Analyzer](https://github.com/ar1syr0/har-analyzer.git)**
   JSON Reader – Because Raw JSON at midnight is a Horror Movie.
 
