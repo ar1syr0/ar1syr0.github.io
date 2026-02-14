@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: ar1syr0's Playground
 description: 2 AM Projects
+github:
+  is_project_page: false
