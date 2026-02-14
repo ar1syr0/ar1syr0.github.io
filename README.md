@@ -1,3 +1,3 @@
-<!-- Include full content -->
-{% capture content %}{% include index.md %}{% endcapture %}
-{{ content | markdownify }}
+# HAR Analyzer
+
+{% include_relative index.md %}
