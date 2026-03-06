@@ -10,7 +10,7 @@ Good vibes (beta version), humour enabled, self-sarcasm running in production.
 ## Projects (Please Lower Expectations… Like, All the Way Down)
 
 - **[Fit Dashboard](https://github.com/ar1syr0/Fit_Dashboard)**
-  Created my own Fitbit and Cronometer dashboard because… why not. Okay, that’s a lie — I actually needed it. 😄
+   Created my own Fitbit and Cronometer dashboard because… why not? Okay, that’s a lie — I actually needed it. 😄
 
 - **[macOS Full Bloat Cremator](https://github.com/ar1syr0/MacOS_Bloat_Cremator/)**
   apple-we-need-to-talk — About Chess. And Stocks. And Tips. And all your friends.
