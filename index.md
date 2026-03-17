@@ -37,4 +37,7 @@ Good vibes (beta version), humour enabled, self-sarcasm running in production.
   <a href="https://github.com/ar1syr0" target="_blank" rel="noopener" aria-label="GitHub">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://www.linkedin.com/in/aristeidis-syrogiannis" target="_blank" rel="noopener" 
+  <a href="https://www.linkedin.com/in/aristeidis-syrogiannis" target="_blank" rel="noopener" aria-label="LinkedIn">
+    <i class="fab fa-linkedin"></i>
+  </a>
+</div>
