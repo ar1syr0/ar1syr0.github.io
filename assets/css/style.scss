@@ -6,12 +6,18 @@
 a.btn.btn-github {
   display: none !important;
 }
+
 .social-footer {
   margin-top: 3rem;
   text-align: center;
-  font-size: 0.9rem;
 }
 
 .social-footer a {
+  margin: 0 0.5rem;
   color: #39ff14;
+  font-size: 1.6rem;
+}
+
+.social-footer a:hover {
+  color: #ffffff;
 }
