@@ -14,21 +14,27 @@ Good vibes (beta version), humour enabled, self-sarcasm running in production.
 
 ## Projects (Please Lower Expectations… Like, All the Way Down)
 
-- **[Fit Dashboard](https://github.com/ar1syr0/Fit_Dashboard)**
+- **[Fit Dashboard](https://github.com/ar1syr0/Fit_Dashboard)**  
   Created my own Fitbit and Cronometer dashboard because… why not? Okay, that’s a lie — I actually needed it. 😄
 
-- **[macOS Full Bloat Cremator](https://github.com/ar1syr0/MacOS_Bloat_Cremator/)**
+- **[macOS Full Bloat Cremator](https://github.com/ar1syr0/MacOS_Bloat_Cremator/)**  
   apple-we-need-to-talk — About Chess. And Stocks. And Tips. And all your friends.
 
-- **[HAR Analyzer](https://github.com/ar1syr0/har-analyzer.git)**
+- **[HAR Analyzer](https://github.com/ar1syr0/har-analyzer.git)**  
   JSON Reader – Because Raw JSON at midnight is a Horror Movie.
-
-
 
 ---
 
-<div class="social-footer">
-  <a href="https://github.com/ar1syr0" target="_blank">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/aristeidis-syrogiannis" target="_blank">LinkedIn</a> .
-</div>
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+  integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+/>
 
+<div class="social-footer">
+  <a href="https://github.com/ar1syr0" target="_blank" rel="noopener" aria-label="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/aristeidis-syrogiannis" target="_blank" rel="noopener" 
