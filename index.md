@@ -24,3 +24,11 @@ Good vibes (beta version), humour enabled, self-sarcasm running in production.
   JSON Reader – Because Raw JSON at midnight is a Horror Movie.
 
 
+
+---
+
+<div class="social-footer">
+  <a href="https://github.com/ar1syr0" target="_blank">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/aristeidis-syrogiannis" target="_blank">LinkedIn</a> .
+</div>
+
