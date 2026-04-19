@@ -14,6 +14,9 @@ Good vibes (beta version), humour enabled, self-sarcasm running in production.
 
 ## Projects (Please Lower Expectations… Like, All the Way Down)
 
+- **[Project Companion](https://github.com/ar1syr0/companion/)**
+  Travel mini PC — local backup hub, TrueNAS relay, failsafe desktop, hotel-room retro console manual and ansible setup.
+
 - **[the_watcher](https://github.com/ar1syr0/the_watcher)**
   A self-contained network watchdog and incident logger for the Arduino UNO R4 WiFi.
 
