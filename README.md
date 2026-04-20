@@ -1,1 +1,1 @@
-This repo holds my page 🤖
+This repo holds my "About" page 🤖
