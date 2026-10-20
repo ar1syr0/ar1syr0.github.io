@@ -14,6 +14,9 @@ Good vibes (beta version), humour enabled, self-sarcasm running in production.
 
 ## Projects (Please Lower Expectations… Like, All the Way Down)
 
+- **[Hermes Agent](https://github.com/ar1syr0/Hermes)**
+Hermes Agent with 4 profiles (Manager, Analyst, Engineer, Ops) for general/daily tasks and, most importantly, to act as a sane guide while I build the whole thing… because apparently I need "AI" to supervise me while I build "AI".
+
 - **[Project Companion](https://github.com/ar1syr0/companion/)**
   Travel mini PC — local backup hub, TrueNAS relay, failsafe desktop, hotel-room retro console (manual and Ansible setup).
 
