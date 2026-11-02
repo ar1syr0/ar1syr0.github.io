@@ -1,37 +1,7 @@
 ---
 layout: default
 title: ar1syr0's Playground
----
-
-# Aristeidis Syrogiannis – “It Worked on My Machine”
-
-Hello friends 🤖  
-Just your friendly neighbourhood tech enthusiast, cosplaying as a Systems Analyst.
-
-I record, experiment, build questionable side projects at 2AM, and occasionally indulge in some dangerously confident vibe coding.
-
-Good vibes (beta version), humour enabled, self-sarcasm running in production. 
-
-## Projects (Please Lower Expectations… Like, All the Way Down)
-
-- **[Hermes Agent](https://github.com/ar1syr0/Hermes)**
-Hermes Agent with 4 profiles (Manager, Analyst, Engineer, Ops) for general/daily tasks and, most importantly, to act as a sane guide while I build the whole thing… because apparently I need "AI" to supervise me while I build "AI".
-
-- **[Project Companion](https://github.com/ar1syr0/companion/)**
-  Travel mini PC — local backup hub, TrueNAS relay, failsafe desktop, hotel-room retro console (manual and Ansible setup).
-
-- **[the_watcher](https://github.com/ar1syr0/the_watcher)**
-  A self-contained network watchdog and incident logger for the Arduino UNO R4 WiFi.
-
-- **[Fit Dashboard](https://github.com/ar1syr0/Fit_Dashboard)**  
-  Created my own Fitbit and Cronometer dashboard because… why not? Okay, that’s a lie — I actually needed it. 😄
-
-- **[macOS Full Bloat Cremator](https://github.com/ar1syr0/MacOS_Bloat_Cremator/)**  
-  apple-we-need-to-talk — About Chess. And Stocks. And Tips. And all your friends.
-
-- **[HAR Analyzer](https://github.com/ar1syr0/har-analyzer.git)**  
-  JSON Reader – Because Raw JSON at midnight is a Horror Movie.
-
+description: Senior Systems Analyst by day, home-lab tinkerer by night. Automation, data, AI agents and side projects of questionable necessity.
 ---
 
 <link
@@ -41,6 +11,47 @@ Hermes Agent with 4 profiles (Manager, Analyst, Engineer, Ops) for general/daily
   crossorigin="anonymous"
   referrerpolicy="no-referrer"
 />
+
+# Aristeidis Syrogiannis – “It Worked on My Machine”
+
+Hello friends 🤖
+
+Senior Systems Analyst by day. By night, a tech enthusiast with a home lab, too many cables and no reliable sense of bedtime.
+
+I build questionable side projects at 2AM, document what breaks, and occasionally indulge in some dangerously confident vibe coding. Then I test it properly, because the ISTQB syllabus is watching.
+
+Good vibes (beta version), humour enabled, self-sarcasm running in production. Rollback plan: none.
+
+---
+
+## <i class="fa-solid fa-compass"></i> The Day Job
+
+I sit between finance teams, enterprise platforms and the people who build things, translating in every direction. Lately that includes intelligent operations: bringing AI and agentic automation into business processes, so the bots handle the exceptions too, not just the happy path from the demo.
+
+---
+
+## <i class="fa-solid fa-rocket"></i> Projects (Please Lower Expectations… Like, All the Way Down)
+
+- <i class="fa-solid fa-robot fa-fw"></i> **[Hermes Agent](https://github.com/ar1syr0/Hermes)** — Four agents (Manager, Analyst, Engineer, Ops), each on a different model and provider, sharing one task board and taking orders from Telegram. Built for daily tasks and, most importantly, to act as a sane guide while I build the whole thing… because apparently I need AI to supervise me while I build AI.
+
+- <i class="fa-solid fa-suitcase-rolling fa-fw"></i> **[Project Companion](https://github.com/ar1syr0/companion/)** — A travel mini PC whose entire engineering brief was "must fit in my cable organiser". Backup hub, TrueNAS relay over Tailscale, failsafe desktop and hotel-room retro console. Rebuilds itself from one Ansible playbook, which is more than I can say for myself on a Monday.
+
+- <i class="fa-solid fa-eye fa-fw"></i> **[The Watcher](https://github.com/ar1syr0/the_watcher)** — A network watchdog on a single Arduino UNO R4 WiFi. When the internet drops, it tells me exactly who to blame (Wi-Fi, router, ISP or endpoint) and keeps the receipts.
+
+- <i class="fa-solid fa-heart-pulse fa-fw"></i> **[Fit Dashboard](https://github.com/ar1syr0/Fit_Dashboard)** — Built my own Fitbit and Cronometer dashboard because… why not? Okay, that's a lie. Fitbit retired the web view and I actually needed it. 😄
+
+- <i class="fa-solid fa-fire fa-fw"></i> **[macOS Full Bloat Cremator](https://github.com/ar1syr0/MacOS_Bloat_Cremator/)** — Apple, we need to talk. About Chess. And Stocks. And Tips. And all your friends. A zsh script that silences background daemons and evicts the apps nobody invited. Read the warnings first.
+
+- <i class="fa-solid fa-magnifying-glass fa-fw"></i> **[HAR Analyzer](https://github.com/ar1syr0/har-analyzer)** — JSON reader, because raw JSON at midnight is a horror movie. Runs entirely in the browser, so your sensitive captures stay yours.
+
+More projects pending. Release schedule: a few times a year, unfortunately.
+
+
+---
+
+## <i class="fa-solid fa-paper-plane"></i> Say Hi
+
+Find me below. Response time: faster than my release schedule.
 
 <div class="social-footer">
   <a href="https://github.com/ar1syr0" target="_blank" rel="noopener" aria-label="GitHub">
