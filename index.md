@@ -26,7 +26,7 @@ Good vibes (beta version), humour enabled, self-sarcasm running in production. R
 
 ## <i class="fa-solid fa-compass"></i> The Day Job
 
-I sit between finance teams, enterprise platforms and the people who build things, translating in every direction. Lately that includes intelligent operations: bringing AI and agentic automation into business processes, so the bots handle the exceptions too, not just the happy path from the demo.
+I sit between finance teams, enterprise platforms and the people who build things, translating in every direction. 
 
 ---
 
